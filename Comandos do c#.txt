@@ -1,0 +1,21 @@
+using System.IO;
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        //Comentário de linha
+        
+        /*
+        Comentário de múltiplas linhas
+        Linha1
+        Linha2
+        */
+        int idade = 40; 
+        string nome = "Adalberto Vasqueiro";
+        double valor = 1000000.50;
+        char letra = 'L'; 
+        bool status = true;
+    }
+}
